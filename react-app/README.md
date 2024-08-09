@@ -11,3 +11,6 @@ INSRUCTIONS:
 4.To delete a task, click "Delete" button.
 
 SCREENSHOT:
+
+![Screenshot](src/assets/im1.PNG)
+![Screenshot](src/assets/im2.PNG)
