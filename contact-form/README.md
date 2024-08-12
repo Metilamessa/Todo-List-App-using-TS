@@ -12,7 +12,7 @@ This is a simple contact form built using React, TypeScript, and the useForm hoo
 
 1. Clone the repository
 2. Run npm install to install dependencies
-3. Run npm start to start the application
+3. Run npm run dev to start the application
 
 # Usage
 
